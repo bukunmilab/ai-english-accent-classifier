@@ -1,2 +1,2 @@
 # ai-english-accent-classifier
-AI tool to classify English accents from YouTube videos using Whisper and GPT-4
+AI tool to classify English accents from video direct .mp4 link using Whisper and GPT-4
